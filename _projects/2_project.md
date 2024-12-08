@@ -1,8 +1,8 @@
 ---
 layout: page
 title: gurih-nusantara
-description: Menjadi Front-End Web Developer Expert
-img: assets/img/3.jpg
+description: Katalog Restoran PWA + Testing and Optimized
+img: assets/img/gurih-nusantara.png
 redirect: https://gurih-nusantara.vercel.app
 importance: 2
 category: dicoding

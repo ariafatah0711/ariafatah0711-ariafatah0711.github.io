@@ -1,8 +1,8 @@
 ---
 layout: page
 title: todo_list
-description: Belajar Membuat Front-End Web untuk Pemula
-img: assets/img/12.jpg
+description: Todo List with javascript - LocalStorage
+img: assets/img/todo-list.png
 redirect: https://ariaf.my.id/dicoding_2
 importance: 1
 category: dicoding

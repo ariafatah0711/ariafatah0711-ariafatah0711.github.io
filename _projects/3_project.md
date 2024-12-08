@@ -1,8 +1,8 @@
 ---
 layout: page
 title: pic-story
-description: a project that redirects to another website
-img: assets/img/7.jpg
+description: Pic Story | web story foto
+img: assets/img/pic-story.png
 redirect: https://pic-storys.web.app
 importance: 3
 category: dicoding
