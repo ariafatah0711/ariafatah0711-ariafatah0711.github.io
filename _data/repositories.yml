@@ -3,6 +3,10 @@ github_users:
 
 github_repos:
   - ariafatah0711/ctf_aria
+  - ariafatah0711/linux_aria
+  - ariafatah0711/cisco_aria
+  - ariafatah0711/html_aria
+  - ariafatah0711/PFwsl
   # - twbs/bootstrap
   # - jekyll/jekyll
   # - jquery/jquery
