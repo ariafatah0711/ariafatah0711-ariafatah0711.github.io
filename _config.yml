@@ -168,7 +168,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /news/:path/
   projects:
     output: true
@@ -208,6 +208,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - _bibliography
 keep_files:
   - CNAME
   - .nojekyll
@@ -227,9 +228,6 @@ plugins:
   - jekyll-link-attributes
   - jekyll-twitter-plugin
   - jemoji
-
-exclude:
-  - _bibliography
 
 # Sitemap settings
 defaults:
