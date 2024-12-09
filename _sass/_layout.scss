@@ -46,6 +46,16 @@ body.sticky-bottom-footer {
 /*****************************************************************************
 * Projects
 *****************************************************************************/
-
+.projects {
+  .card-text {
+    /* font-size: 1.3rem !important; */
+    /* letter-spacing: 0 !important; */
+    white-space: wrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    min-height: 3rem;
+    max-height: 3rem;
+  }
+}
 
 // TODO: redefine projects layout.
