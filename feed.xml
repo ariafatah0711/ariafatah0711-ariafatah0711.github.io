@@ -1,66 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://ariaf.my.id/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ariaf.my.id/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-12-09T08:25:39+00:00</updated><id>https://ariaf.my.id/feed.xml</id><title type="html">blank</title><subtitle>Portfolio and blog showcasing projects and academic achievements.
-</subtitle><entry><title type="html">my docs for configuration network</title><link href="https://ariaf.my.id/blog/2024/cisco_aria/" rel="alternate" type="text/html" title="my docs for configuration network" /><published>2024-08-12T16:40:16+00:00</published><updated>2024-08-12T16:40:16+00:00</updated><id>https://ariaf.my.id/blog/2024/cisco_aria</id><content type="html" xml:base="https://ariaf.my.id/blog/2024/cisco_aria/"><![CDATA[<p><a href="/cisco_aria" alt="GO_TO_PAGE"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=GO_TO_PAGE&amp;message=ariaf.my.id/cisco_aria&amp;color=000000" /></a></p>
-
-<h1 id="cisco_aria">cisco_aria</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://ariaf.my.id/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ariaf.my.id/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-12-09T08:30:39+00:00</updated><id>https://ariaf.my.id/feed.xml</id><title type="html">blank</title><subtitle>Portfolio and blog showcasing projects and academic achievements.
+</subtitle><entry><title type="html">my docs for configuration network</title><link href="https://ariaf.my.id/blog/2024/cisco_aria/" rel="alternate" type="text/html" title="my docs for configuration network" /><published>2024-12-08T16:40:30+00:00</published><updated>2024-12-08T16:40:30+00:00</updated><id>https://ariaf.my.id/blog/2024/cisco_aria</id><content type="html" xml:base="https://ariaf.my.id/blog/2024/cisco_aria/"><![CDATA[<h1 id="cisco_aria">cisco_aria</h1>
 
 <p>This file is what I studied while learning Cisco and networking, and it contains documentation and some information for configuration. The file includes rich references and basic information.</p>
 
 <h2 id="-introduction">🚀 introduction</h2>
 <p>“My journey of learning Cisco began during my time at Vocational High School, majoring in Computer Networking (TKJ) at SMK Harapan Bangsa. From there, I started seeking knowledge on YouTube, exploring the web for documentation, and practicing at school. This journey allowed me to gain a deep understanding of the world of Cisco and networking, and I continue to learn and grow in this field.”</p>
 
-<p align="left"> <a href="#">
-  <img alt="cisco" src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&amp;logo=cisco&amp;logoColor=white" />
-  </a>
-</p>
-
-<h2 id="-table-of-contents">📋 Table of Contents</h2>
-<details>
-  <summary><b>Installing Cisco Packet Tracer</b></summary>
-
-  <ol>
-    <li>Go to the <a href="https://www.netacad.com/" target="_blank">Cisco Networking Academy</a> website, log in or create an account, and navigate to the Cisco Packet Tracer download page. Download the appropriate version for your operating system (Linux, Windows, or macOS).</li>
-    <li>Double-click the downloaded installer file, follow the installation wizard, accept the license agreement, and specify the installation location. Click "Install" to begin the process.</li>
-    <li>Launch Cisco Packet Tracer from your applications menu.</li>
-  </ol>
-</details>
-
-<h2 id="️-license">©️ license</h2>
-<p><a href="https://github.com/ariafatah0711" alt="CREATED"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=CREATED%20BY&amp;message=ariafatah0711&amp;color=000000" /></a>
-<a href="https://github.com/ariafatah0711/ariafatah0711/blob/main/LICENSE" alt="LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=LICENSE&amp;message=MIT&amp;color=000000" /></a></p>]]></content><author><name></name></author><category term="docs" /><summary type="html"><![CDATA[write up]]></summary></entry><entry><title type="html">write up CTF by Aria</title><link href="https://ariaf.my.id/blog/2024/ctf_aria/" rel="alternate" type="text/html" title="write up CTF by Aria" /><published>2024-08-12T16:40:16+00:00</published><updated>2024-08-12T16:40:16+00:00</updated><id>https://ariaf.my.id/blog/2024/ctf_aria</id><content type="html" xml:base="https://ariaf.my.id/blog/2024/ctf_aria/"><![CDATA[<p><a href="/ctf_aria" alt="GO_TO_PAGE"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=GO_TO_PAGE&amp;message=ariaf.my.id/ctf_aria&amp;color=000000" /></a></p>
-
-<h1 id="ctf_aria">ctf_aria</h1>
+<p><a href="/cisco_aria" alt="GO_TO_PAGE"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=GO_TO_PAGE&amp;message=ariaf.my.id/cisco_aria&amp;color=000000" /></a></p>]]></content><author><name></name></author><category term="docs" /><summary type="html"><![CDATA[write up]]></summary></entry><entry><title type="html">write up CTF by Aria</title><link href="https://ariaf.my.id/blog/2024/ctf_aria/" rel="alternate" type="text/html" title="write up CTF by Aria" /><published>2024-12-08T16:40:00+00:00</published><updated>2024-12-08T16:40:00+00:00</updated><id>https://ariaf.my.id/blog/2024/ctf_aria</id><content type="html" xml:base="https://ariaf.my.id/blog/2024/ctf_aria/"><![CDATA[<h1 id="ctf_aria">ctf_aria</h1>
 
 <p>This file is what I studied while learning CTF</p>
 
-<h2 id="-introduction">🚀 introduction</h2>
-
-<p align="left"> 
-  <a href="#">
-    <img alt="Capture The Flag" src="https://img.shields.io/badge/-Capture%20The%20Flag-FF5733?style=flat-square&amp;logo=flag&amp;logoColor=white" />
-  </a>
-</p>
-
-<h2 id="-table-of-contents">📋 Table of Contents</h2>
-
-<p><b>List Resources</b></p>
-
-<ul>
-  <li>Platform JEOPARDY<ul>
-    <li><a href="https://play.picoctf.org">picoctf</a></li>
-    <li><a href="https://overthewire.org">overthewire</a></li>
-    <li><a href="https://labex.io">labex</a></li>
-    <li><a href="https://pwn.college">pwn.college</a></li>
-  </ul></li>
-  <li>Platform BOOT TO ROOT<ul>
-    <li><a href="https://hacktrace-ranges.id">hacktrace-ranges</a></li>
-    <li><a href="https://tryhackme.com">tryhackme</a></li>
-    <li><a href="https:/www.hackthebox.com">hackthebox</a></li>
-  </ul></li>
-  <li>MATERIAL<ul>
-    <li><a href="https://dimasma0305.github.io/Cyber-Security-Learning-Resources/Resource_List/Link_Bermanfaat">material list dimasma0305</a></li>
-  </ul></li>
-</ul>
-
-<h2 id="️-license">©️ license</h2>
-<p><a href="https://github.com/ariafatah0711" alt="CREATED"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=CREATED%20BY&amp;message=ariafatah0711&amp;color=000000" /></a>
-<a href="https://github.com/ariafatah0711/ariafatah0711/blob/main/LICENSE" alt="LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=LICENSE&amp;message=MIT&amp;color=000000" /></a></p>]]></content><author><name></name></author><category term="docs" /><summary type="html"><![CDATA[write up]]></summary></entry></feed>
+<p><a href="/ctf_aria" alt="GO_TO_PAGE"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=GO_TO_PAGE&amp;message=ariaf.my.id/ctf_aria&amp;color=000000" /></a></p>]]></content><author><name></name></author><category term="docs" /><summary type="html"><![CDATA[write up]]></summary></entry></feed>
