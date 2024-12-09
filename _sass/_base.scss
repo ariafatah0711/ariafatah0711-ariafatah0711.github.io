@@ -485,40 +485,42 @@ footer.sticky-bottom {
 
 .projects {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); // Responsif: 3 kolom besar, 1 kolom kecil
-  gap: 2rem; // Jarak antar elemen
-  justify-content: center; // Pusatkan grid
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); // Atur jumlah kolom otomatis
+  gap: 1.5rem; // Jarak antar elemen
+  justify-items: center; // Pusatkan item di dalam grid
   padding: 2rem;
 
   .card {
     display: flex;
-    flex-direction: column; // Agar isi kartu vertikal
-    justify-content: space-between; // Sebar konten atas-bawah
-    align-items: center; // Pusatkan konten secara horizontal
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
     text-align: center;
     background: #fff;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); // Tambahkan shadow
-    border-radius: 8px; // Sudut kartu melengkung
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
     padding: 1rem;
-    min-height: 400px; // Tinggi kartu sama
+    width: 100%;
+    max-width: 350px; // Batasi lebar kartu
+    min-height: 400px; // Tinggi kartu tetap
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 
     &:hover {
-      transform: translateY(-5px); // Efek hover
-      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); // Tambahkan shadow hover
+      transform: translateY(-5px);
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
     }
 
     img {
       width: 100%;
       height: auto;
-      max-height: 200px; // Batasi tinggi gambar
-      object-fit: cover; // Gambar selalu proporsional
+      max-height: 200px;
+      object-fit: cover;
       border-radius: 4px;
       margin-bottom: 1rem;
     }
 
     .card-title {
-      font-size: 1.5rem;
+      font-size: 1.2rem;
       font-weight: bold;
       margin: 0.5rem 0;
     }
@@ -531,9 +533,6 @@ footer.sticky-bottom {
 
   @media (max-width: 768px) {
     grid-template-columns: 1fr; // 1 kolom di layar kecil
-    .card {
-      min-height: auto; // Tinggi kartu fleksibel jika layar kecil
-    }
   }
 }
 
