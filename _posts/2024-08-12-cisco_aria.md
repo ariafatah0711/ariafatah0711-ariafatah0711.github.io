@@ -1,17 +1,13 @@
 ---
 layout: post
-title: Configuration For Networking
+title: my docs for configuration network
 date: 2024-08-12 16:40:16
 description: write up
 tags: docs
-redirect: /cisco_aria
+# redirect: /cisco_aria
 ---
 
-<p align="center">
-  <a href="/cisco_aria">
-    <img alt="Cisco" src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-  </a>
-</p>
+<a href="/cisco_aria" alt="GO_TO_PAGE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=GO_TO_PAGE&message=ariaf.my.id/cisco_aria&color=000000"></a>
 
 # cisco_aria
 

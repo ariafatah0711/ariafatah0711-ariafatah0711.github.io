@@ -1,6 +1,6 @@
 ---
 layout: page
-title: gurih-nusantara
+title: gurih
 description: Katalog Restoran PWA + Testing and Optimized
 img: assets/img/gurih-nusantara.png
 redirect: https://gurih-nusantara.vercel.app
