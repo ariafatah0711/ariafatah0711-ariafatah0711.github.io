@@ -472,14 +472,26 @@ footer.sticky-bottom {
   text-decoration: none;
 }
 
+.projects {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  justify-content: center;
+  padding: 1rem;
+}
 .projects a {
   text-decoration: none;
 }
 .projects a:hover .card-title {
   color: var(--global-theme-color);
+  transition: color 0.3s ease;
 }
 .projects .card img {
   width: 100%;
+  transition: transform 0.3s ease;
+}
+.projects .card:hover img {
+  transform: scale(1.05);
 }
 .projects .card-item {
   width: auto;
@@ -493,6 +505,7 @@ footer.sticky-bottom {
 .projects .grid-item {
   width: 250px;
   margin-bottom: 10px;
+  transition: all 0.3s ease;
 }
 .projects h2.category {
   color: var(--global-divider-color);
@@ -501,6 +514,12 @@ footer.sticky-bottom {
   margin-top: 2rem;
   margin-bottom: 1rem;
   text-align: right;
+}
+@media (max-width: 768px) {
+  .projects {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    padding: 0.5rem;
+  }
 }
 
 .publications {
