@@ -47,4 +47,57 @@ body.sticky-bottom-footer {
 * Projects
 *****************************************************************************/
 
+.projects {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); // Atur jumlah kolom otomatis
+  gap: 1.5rem; // Jarak antar elemen
+  justify-items: center; // Pusatkan item di dalam grid
+  padding: 2rem;
+
+  .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    background: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 1rem;
+    width: 100%;
+    max-width: 350px; // Batasi lebar kartu
+    min-height: 400px; // Tinggi kartu tetap
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+    &:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    }
+
+    img {
+      width: 100%;
+      height: auto;
+      max-height: 200px;
+      object-fit: cover;
+      border-radius: 4px;
+      margin-bottom: 1rem;
+    }
+
+    .card-title {
+      font-size: 1.2rem;
+      font-weight: bold;
+      margin: 0.5rem 0;
+    }
+
+    .card-description {
+      font-size: 1rem;
+      color: #666;
+    }
+  }
+
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr; // 1 kolom di layar kecil
+  }
+}
+
 // TODO: redefine projects layout.
