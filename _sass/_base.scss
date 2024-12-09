@@ -858,3 +858,17 @@ pre {
     opacity: 1;
   }
 }
+
+// custom
+
+@media (max-width: 820px) {
+  .projects .grid-item {
+    width: 45% !important;
+  }
+}
+
+@media (max-width: 600px) {
+  .projects .grid-item {
+    width: 100% !important;
+  }
+}
