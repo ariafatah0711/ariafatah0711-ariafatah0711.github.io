@@ -97,6 +97,55 @@ body.sticky-bottom-footer {
 /*****************************************************************************
 * Projects
 *****************************************************************************/
+.projects {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  justify-items: center;
+  padding: 2rem;
+}
+.projects .card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  background: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding: 1rem;
+  width: 100%;
+  max-width: 350px;
+  min-height: 400px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.projects .card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+.projects .card img {
+  width: 100%;
+  height: auto;
+  max-height: 200px;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+.projects .card .card-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 0.5rem 0;
+}
+.projects .card .card-description {
+  font-size: 1rem;
+  color: #666;
+}
+@media (max-width: 768px) {
+  .projects {
+    grid-template-columns: 1fr;
+  }
+}
+
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
@@ -472,53 +521,35 @@ footer.sticky-bottom {
   text-decoration: none;
 }
 
-.projects {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1.5rem;
-  justify-items: center;
-  padding: 2rem;
+.projects a {
+  text-decoration: none;
 }
-.projects .card {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-  text-align: center;
-  background: #fff;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  border-radius: 8px;
-  padding: 1rem;
-  width: 100%;
-  max-width: 350px;
-  min-height: 400px;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-.projects .card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+.projects a:hover .card-title {
+  color: var(--global-theme-color);
 }
 .projects .card img {
   width: 100%;
-  height: auto;
-  max-height: 200px;
-  object-fit: cover;
-  border-radius: 4px;
+}
+.projects .card-item {
+  width: auto;
+  margin-bottom: 10px;
+}
+.projects .card-item .row {
+  display: flex;
+  align-items: center;
+}
+.projects .grid-sizer,
+.projects .grid-item {
+  width: 250px;
+  margin-bottom: 10px;
+}
+.projects h2.category {
+  color: var(--global-divider-color);
+  border-bottom: 1px solid var(--global-divider-color);
+  padding-top: 0.5rem;
+  margin-top: 2rem;
   margin-bottom: 1rem;
-}
-.projects .card .card-title {
-  font-size: 1.2rem;
-  font-weight: bold;
-  margin: 0.5rem 0;
-}
-.projects .card .card-description {
-  font-size: 1rem;
-  color: #666;
-}
-@media (max-width: 768px) {
-  .projects {
-    grid-template-columns: 1fr;
-  }
+  text-align: right;
 }
 
 .publications {
