@@ -485,64 +485,55 @@ footer.sticky-bottom {
 
 .projects {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); // Kolom fleksibel
-  gap: 1rem; // Jarak antar item
-  justify-content: center; // Memusatkan konten
-  padding: 1rem;
-
-  a {
-    text-decoration: none;
-
-    &:hover {
-      .card-title {
-        color: var(--global-theme-color);
-        transition: color 0.3s ease; // Animasi smooth pada perubahan warna
-      }
-    }
-  }
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); // Responsif: 3 kolom besar, 1 kolom kecil
+  gap: 2rem; // Jarak antar elemen
+  justify-content: center; // Pusatkan grid
+  padding: 2rem;
 
   .card {
-    img {
-      width: 100%;
-      transition: transform 0.3s ease; // Tambahkan efek zoom halus saat hover
-    }
+    display: flex;
+    flex-direction: column; // Agar isi kartu vertikal
+    justify-content: space-between; // Sebar konten atas-bawah
+    align-items: center; // Pusatkan konten secara horizontal
+    text-align: center;
+    background: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); // Tambahkan shadow
+    border-radius: 8px; // Sudut kartu melengkung
+    padding: 1rem;
+    min-height: 400px; // Tinggi kartu sama
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 
     &:hover {
-      img {
-        transform: scale(1.05); // Efek zoom-in
-      }
+      transform: translateY(-5px); // Efek hover
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); // Tambahkan shadow hover
     }
-  }
 
-  .card-item {
-    width: auto;
-    margin-bottom: 10px;
-
-    .row {
-      display: flex;
-      align-items: center;
+    img {
+      width: 100%;
+      height: auto;
+      max-height: 200px; // Batasi tinggi gambar
+      object-fit: cover; // Gambar selalu proporsional
+      border-radius: 4px;
+      margin-bottom: 1rem;
     }
-  }
 
-  .grid-sizer,
-  .grid-item {
-    width: 250px;
-    margin-bottom: 10px;
-    transition: all 0.3s ease; // Untuk perubahan layout yang halus
-  }
+    .card-title {
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin: 0.5rem 0;
+    }
 
-  h2.category {
-    color: var(--global-divider-color);
-    border-bottom: 1px solid var(--global-divider-color);
-    padding-top: 0.5rem;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-    text-align: right;
+    .card-description {
+      font-size: 1rem;
+      color: #666;
+    }
   }
 
   @media (max-width: 768px) {
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); // Lebih kecil di layar sempit
-    padding: 0.5rem;
+    grid-template-columns: 1fr; // 1 kolom di layar kecil
+    .card {
+      min-height: auto; // Tinggi kartu fleksibel jika layar kecil
+    }
   }
 }
 
