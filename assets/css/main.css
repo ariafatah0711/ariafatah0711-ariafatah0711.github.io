@@ -475,8 +475,8 @@ footer.sticky-bottom {
 .projects {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-  justify-content: center;
+  gap: 1.5rem;
+  justify-items: center;
   padding: 2rem;
 }
 .projects .card {
@@ -489,6 +489,8 @@ footer.sticky-bottom {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
   padding: 1rem;
+  width: 100%;
+  max-width: 350px;
   min-height: 400px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -505,7 +507,7 @@ footer.sticky-bottom {
   margin-bottom: 1rem;
 }
 .projects .card .card-title {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: bold;
   margin: 0.5rem 0;
 }
@@ -516,9 +518,6 @@ footer.sticky-bottom {
 @media (max-width: 768px) {
   .projects {
     grid-template-columns: 1fr;
-  }
-  .projects .card {
-    min-height: auto;
   }
 }
 
