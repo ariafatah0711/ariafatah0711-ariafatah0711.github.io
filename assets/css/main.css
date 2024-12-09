@@ -97,55 +97,6 @@ body.sticky-bottom-footer {
 /*****************************************************************************
 * Projects
 *****************************************************************************/
-.projects {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1.5rem;
-  justify-items: center;
-  padding: 2rem;
-}
-.projects .card {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-  text-align: center;
-  background: #fff;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  border-radius: 8px;
-  padding: 1rem;
-  width: 100%;
-  max-width: 350px;
-  min-height: 400px;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-.projects .card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-}
-.projects .card img {
-  width: 100%;
-  height: auto;
-  max-height: 200px;
-  object-fit: cover;
-  border-radius: 4px;
-  margin-bottom: 1rem;
-}
-.projects .card .card-title {
-  font-size: 1.2rem;
-  font-weight: bold;
-  margin: 0.5rem 0;
-}
-.projects .card .card-description {
-  font-size: 1rem;
-  color: #666;
-}
-@media (max-width: 768px) {
-  .projects {
-    grid-template-columns: 1fr;
-  }
-}
-
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
@@ -223,6 +174,15 @@ blockquote {
 }
 .card .card-title {
   color: var(--global-text-color);
+}
+.card .card-text {
+  /* font-size: 1.3rem !important; */
+  /* letter-spacing: 0 !important; */
+  white-space: wrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  min-height: 3rem;
+  max-height: 3rem;
 }
 .card .card-item {
   width: auto;
