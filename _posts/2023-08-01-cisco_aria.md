@@ -1,7 +1,7 @@
 ---
 layout: post
 title: my docs for configuration network
-date: 2024-08-01 16:40:30
+date: 2023-08-01 16:40:30
 description: my file learn network
 tags: docs
 # redirect: /cisco_aria
