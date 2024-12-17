@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://ariaf.my.id/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ariaf.my.id/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-12-16T05:26:21+00:00</updated><id>https://ariaf.my.id/feed.xml</id><title type="html">blank</title><subtitle>Portfolio and blog showcasing projects and academic achievements.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://ariaf.my.id/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ariaf.my.id/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-12-17T16:53:05+00:00</updated><id>https://ariaf.my.id/feed.xml</id><title type="html">blank</title><subtitle>Portfolio and blog showcasing projects and academic achievements.
 </subtitle><entry><title type="html">write up CTF by Aria</title><link href="https://ariaf.my.id/blog/2024/ctf_aria/" rel="alternate" type="text/html" title="write up CTF by Aria" /><published>2024-12-08T16:40:00+00:00</published><updated>2024-12-08T16:40:00+00:00</updated><id>https://ariaf.my.id/blog/2024/ctf_aria</id><content type="html" xml:base="https://ariaf.my.id/blog/2024/ctf_aria/"><![CDATA[<h1 id="ctf_aria">ctf_aria</h1>
 
 <p>This file is what I studied while learning CTF</p>
@@ -17,4 +17,11 @@
 <h2 id="-introduction">🚀 introduction</h2>
 <p>“My journey of learning Cisco began during my time at Vocational High School, majoring in Computer Networking (TKJ) at SMK Harapan Bangsa. From there, I started seeking knowledge on YouTube, exploring the web for documentation, and practicing at school. This journey allowed me to gain a deep understanding of the world of Cisco and networking, and I continue to learn and grow in this field.”</p>
 
-<p><a href="/cisco_aria" alt="GO_TO_PAGE"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=GO_TO_PAGE&amp;message=ariaf.my.id/cisco_aria&amp;color=000000" /></a></p>]]></content><author><name></name></author><category term="docs" /><summary type="html"><![CDATA[my file learn network]]></summary></entry></feed>
+<p><a href="/cisco_aria" alt="GO_TO_PAGE"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=GO_TO_PAGE&amp;message=ariaf.my.id/cisco_aria&amp;color=000000" /></a></p>]]></content><author><name></name></author><category term="docs" /><summary type="html"><![CDATA[my file learn network]]></summary></entry><entry><title type="html">my docs for learn container</title><link href="https://ariaf.my.id/blog/2023/container_aria/" rel="alternate" type="text/html" title="my docs for learn container" /><published>2023-08-01T16:40:30+00:00</published><updated>2023-08-01T16:40:30+00:00</updated><id>https://ariaf.my.id/blog/2023/container_aria</id><content type="html" xml:base="https://ariaf.my.id/blog/2023/container_aria/"><![CDATA[<h1 id="container_aria">container_aria</h1>
+
+<p>My file for learning about container</p>
+
+<h2 id="-introduction">🚀 introduction</h2>
+<p>this is my container file and learn container</p>
+
+<p><a href="/container_aria" alt="GO_TO_PAGE"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=GO_TO_PAGE&amp;message=ariaf.my.id/cisco_aria&amp;color=000000" /></a></p>]]></content><author><name></name></author><category term="docs" /><summary type="html"><![CDATA[my file learn container]]></summary></entry></feed>
