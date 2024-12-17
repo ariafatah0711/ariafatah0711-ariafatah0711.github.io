@@ -1,7 +1,7 @@
 ---
 layout: post
 title: my docs for learn container
-date: 2023-08-01 16:40:30
+date: 2024-06-15 16:40:30
 description: my file learn container
 tags: docs
 # redirect: /container_aria
