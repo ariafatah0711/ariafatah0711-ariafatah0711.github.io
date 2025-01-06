@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://ariaf.my.id/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ariaf.my.id/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-01-06T13:44:55+00:00</updated><id>https://ariaf.my.id/feed.xml</id><title type="html">blank</title><subtitle>Portfolio and blog showcasing projects and academic achievements.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://ariaf.my.id/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ariaf.my.id/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-01-06T13:48:29+00:00</updated><id>https://ariaf.my.id/feed.xml</id><title type="html">blank</title><subtitle>Portfolio and blog showcasing projects and academic achievements.
 </subtitle><entry><title type="html">it club (cyber_security)</title><link href="https://ariaf.my.id/blog/2025/it_club/" rel="alternate" type="text/html" title="it club (cyber_security)" /><published>2025-01-05T16:40:00+00:00</published><updated>2025-01-05T16:40:00+00:00</updated><id>https://ariaf.my.id/blog/2025/it_club</id><content type="html" xml:base="https://ariaf.my.id/blog/2025/it_club/"><![CDATA[<h2 id="list-ppt">List PPT</h2>
 <ul>
   <li><a href="https://docs.google.com/presentation/d/13QV2IOHvIqefGIntMF5zxw7y4IYnGKzb0WKrQ3r5xgY/edit?usp=sharing">ppt_1</a></li>
@@ -6,7 +6,8 @@
 
 <h2 id="social-media">Social Media</h2>
 
-<p>[<figure></figure></p>
+<p><a href="https://www.instagram.com/smk_harapanbangsa/" class="d-flex align-items-center m-2">
+    <figure></figure></a></p>
 
 <picture>
     
@@ -20,9 +21,11 @@
 
   </picture>
 
-<p>&lt;/figure&gt;
- smk harapan bangsa](https://www.instagram.com/smk_harapanbangsa/)
-[<figure></figure></p>
+<p>&lt;/figure&gt;</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;span class="text-center ms-2"&gt;smk harapan bangsa&lt;/span&gt; &lt;/a&gt; &lt;a href="https://s.id/dev-universe" class="d-flex align-items-center m-2"&gt;
+&lt;figure&gt;
+</code></pre></div></div>
 
 <picture>
     
@@ -36,8 +39,10 @@
 
   </picture>
 
-<p>&lt;/figure&gt;
- Discord Comunity Dev Universe](https://s.id/dev-universe)</p>
+<p>&lt;/figure&gt;</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;span class="text-center ms-2"&gt;Discord Comunity Dev Universe&lt;/span&gt; &lt;/a&gt;
+</code></pre></div></div>
 
 <!-- [<img src="assets/img/posts/instagram.png" width="30" align="center"/> smk harapan bangsa](https://www.instagram.com/smk_harapanbangsa/) -->
 <!-- [<img src="assets/img/posts/discord.png" width="30" align="center"/> Discord Comunity Dev Universe](https://s.id/dev-universe) -->]]></content><author><name></name></author><category term="docs" /><summary type="html"><![CDATA[it club smk harapan bangsa]]></summary></entry><entry><title type="html">write up CTF by Aria</title><link href="https://ariaf.my.id/blog/2024/ctf_aria/" rel="alternate" type="text/html" title="write up CTF by Aria" /><published>2024-12-08T16:40:00+00:00</published><updated>2024-12-08T16:40:00+00:00</updated><id>https://ariaf.my.id/blog/2024/ctf_aria</id><content type="html" xml:base="https://ariaf.my.id/blog/2024/ctf_aria/"><![CDATA[<h1 id="ctf_aria">ctf_aria</h1>
