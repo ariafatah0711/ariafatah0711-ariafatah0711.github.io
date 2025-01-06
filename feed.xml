@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://ariaf.my.id/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ariaf.my.id/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-01-06T14:04:51+00:00</updated><id>https://ariaf.my.id/feed.xml</id><title type="html">blank</title><subtitle>Portfolio and blog showcasing projects and academic achievements.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://ariaf.my.id/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ariaf.my.id/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-01-06T14:07:04+00:00</updated><id>https://ariaf.my.id/feed.xml</id><title type="html">blank</title><subtitle>Portfolio and blog showcasing projects and academic achievements.
 </subtitle><entry><title type="html">it club (cyber_security)</title><link href="https://ariaf.my.id/blog/2025/it_club/" rel="alternate" type="text/html" title="it club (cyber_security)" /><published>2025-01-05T16:40:00+00:00</published><updated>2025-01-05T16:40:00+00:00</updated><id>https://ariaf.my.id/blog/2025/it_club</id><content type="html" xml:base="https://ariaf.my.id/blog/2025/it_club/"><![CDATA[<h2 id="list-ppt">List PPT</h2>
 <ul>
   <li><a href="https://docs.google.com/presentation/d/13QV2IOHvIqefGIntMF5zxw7y4IYnGKzb0WKrQ3r5xgY/edit?usp=sharing">ppt_1</a></li>
@@ -6,24 +6,9 @@
 
 <h2 id="social-media">Social Media</h2>
 <p><a href="https://www.instagram.com/smk_harapanbangsa/" class="d-flex align-items-center m-2">
-    <figure></figure></a></p>
-
-<picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/posts/instagram-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/posts/instagram-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/posts/instagram-1400.webp" />
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/posts/instagram.png" width="30" height="30" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
-
-  </picture>
-
-<p>&lt;/figure&gt;</p>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>smk harapan bangsa &lt;/a&gt;
-</code></pre></div></div>
+    <img src="assets/img/posts/instagram.png" width="30" align="center" />
+    smk harapan bangsa
+</a></p>
 
 <p><a href="https://www.instagram.com/smk_harapanbangsa/" class="d-flex align-items-center m-2">
     &lt;div class="col-sm mt-3 mt-md-0"&gt;
