@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://ariaf.my.id/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ariaf.my.id/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-01-06T13:28:41+00:00</updated><id>https://ariaf.my.id/feed.xml</id><title type="html">blank</title><subtitle>Portfolio and blog showcasing projects and academic achievements.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://ariaf.my.id/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ariaf.my.id/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-01-06T13:33:43+00:00</updated><id>https://ariaf.my.id/feed.xml</id><title type="html">blank</title><subtitle>Portfolio and blog showcasing projects and academic achievements.
 </subtitle><entry><title type="html">it club (cyber_security)</title><link href="https://ariaf.my.id/blog/2025/it_club/" rel="alternate" type="text/html" title="it club (cyber_security)" /><published>2025-01-05T16:40:00+00:00</published><updated>2025-01-05T16:40:00+00:00</updated><id>https://ariaf.my.id/blog/2025/it_club</id><content type="html" xml:base="https://ariaf.my.id/blog/2025/it_club/"><![CDATA[<h1 id="it-club">IT CLUB</h1>
 
 <h2 id="list-ppt">List PPT</h2>
@@ -7,8 +7,8 @@
 </ul>
 
 <h2 id="social-media">Social Media</h2>
-<p><a href="https://www.instagram.com/smk_harapanbangsa/"><img src="./posts/instagram.png" width="30" align="center" /> smk harapan bangsa</a>
-<a href="https://s.id/dev-universe"><img src="./posts/discord.png" width="30" align="center" /> Discord Comunity Dev Universe</a></p>]]></content><author><name></name></author><category term="docs" /><summary type="html"><![CDATA[it club smk harapan bangsa]]></summary></entry><entry><title type="html">write up CTF by Aria</title><link href="https://ariaf.my.id/blog/2024/ctf_aria/" rel="alternate" type="text/html" title="write up CTF by Aria" /><published>2024-12-08T16:40:00+00:00</published><updated>2024-12-08T16:40:00+00:00</updated><id>https://ariaf.my.id/blog/2024/ctf_aria</id><content type="html" xml:base="https://ariaf.my.id/blog/2024/ctf_aria/"><![CDATA[<h1 id="ctf_aria">ctf_aria</h1>
+<p><a href="https://www.instagram.com/smk_harapanbangsa/"><img src="../assets/img/posts/instagram.png" width="30" align="center" /> smk harapan bangsa</a>
+<a href="https://s.id/dev-universe"><img src="../assets/img/posts/discord.png" width="30" align="center" /> Discord Comunity Dev Universe</a></p>]]></content><author><name></name></author><category term="docs" /><summary type="html"><![CDATA[it club smk harapan bangsa]]></summary></entry><entry><title type="html">write up CTF by Aria</title><link href="https://ariaf.my.id/blog/2024/ctf_aria/" rel="alternate" type="text/html" title="write up CTF by Aria" /><published>2024-12-08T16:40:00+00:00</published><updated>2024-12-08T16:40:00+00:00</updated><id>https://ariaf.my.id/blog/2024/ctf_aria</id><content type="html" xml:base="https://ariaf.my.id/blog/2024/ctf_aria/"><![CDATA[<h1 id="ctf_aria">ctf_aria</h1>
 
 <p>This file is what I studied while learning CTF</p>
 
