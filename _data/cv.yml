@@ -89,17 +89,23 @@
 - title: Academic Interests
   type: nested_list
   contents:
+    - title: Programming and web development
+      items:
+        - html, css, javascript
+        - nodejs
+        - python
+        - bash
     - title: Networking
       items: 
         - Cisco
         - Mikrotik
-    - title: Container
+    - title: Container & Automation
       items:
         - Docker, Podman
         - Kubernetes
+        - Ansible
     - title: CTF
       items:
-        - Boot To Root (BTR)
         - cryptografi
 
 - title: Other Interests
