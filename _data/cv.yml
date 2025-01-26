@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Aria Fatah Anom
-    - name: Date of Birth
-      value: 14th March 2000
+    # - name: Date of Birth
+      # value: 14th March 2000
     - name: Languages
       value: Indonesia, English
 
@@ -63,7 +63,7 @@
     #   year: 1911 - 1917
     #   description:
 
-    - title: MS (Manage Service), IT Support
+    - title: internship - MS (Manage Service), IT Support
       institution: PT Jarvis Intergrasi Solusi, Indonesia
       year: 2024
 
@@ -104,9 +104,9 @@
         - Docker, Podman
         - Kubernetes
         - Ansible
-    - title: CTF
+    - title: Capture The Flag
       items:
-        - cryptografi
+        - Cryptography
 
 - title: Other Interests
   type: list
