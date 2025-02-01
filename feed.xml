@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ariaf.my.id/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ariaf.my.id/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-02-01T07:46:55+00:00</updated><id>https://ariaf.my.id/feed.xml</id><title type="html">blank</title><subtitle>Portfolio and blog showcasing projects and academic achievements.
-</subtitle><entry><title type="html">it club</title><link href="https://ariaf.my.id/blog/2025/it_club/" rel="alternate" type="text/html" title="it club" /><published>2025-01-05T16:40:00+00:00</published><updated>2025-01-05T16:40:00+00:00</updated><id>https://ariaf.my.id/blog/2025/it_club</id><content type="html" xml:base="https://ariaf.my.id/blog/2025/it_club/"><![CDATA[<h2 id="list-ppt">List PPT</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ariaf.my.id/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ariaf.my.id/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-02-01T07:49:01+00:00</updated><id>https://ariaf.my.id/feed.xml</id><title type="html">blank</title><subtitle>Portfolio and blog showcasing projects and academic achievements.
+</subtitle><entry><title type="html">it club</title><link href="https://ariaf.my.id/blog/2025/it_club/" rel="alternate" type="text/html" title="it club" /><published>2025-01-05T16:40:00+00:00</published><updated>2025-01-05T16:40:00+00:00</updated><id>https://ariaf.my.id/blog/2025/it_club</id><content type="html" xml:base="https://ariaf.my.id/blog/2025/it_club/"><![CDATA[<h1 id="materi-cyber">materi cyber</h1>
+<h2 id="list-ppt">List PPT</h2>
 <ul>
   <li><a href="https://docs.google.com/presentation/d/13QV2IOHvIqefGIntMF5zxw7y4IYnGKzb0WKrQ3r5xgY/edit?usp=sharing">P1 - Introduction cyber security &amp; Command Linux</a></li>
   <li><a href="https://www.canva.com/design/DAGcLboG3jU/NxpPUjRyLpHBQYa_C-f-qA/edit?utm_content=DAGcLboG3jU&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton">P2 - Introduction CTF &amp; overthewire bandit</a></li>
@@ -38,7 +39,7 @@
   <li><a href="https://catatan-rafan.blogspot.com/2025/01/cyber-security-pengenalan-ctf-dan.html?m=1">M_Rafan-02</a></li>
 </ul>
 
-<h2 id="social-media">Social Media</h2>
+<h1 id="social-media">Social Media</h1>
 <p><a href="https://www.instagram.com/smk_harapanbangsa/" class="d-flex align-items-center m-2">
     <img src="/assets/img/posts/instagram.png" width="30" align="center" style="padding: 0 5px 0 2px;" />
     smk_harapanbangsa
