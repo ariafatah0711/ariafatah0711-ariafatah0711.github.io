@@ -5,8 +5,6 @@
       value: Aria Fatah Anom
     # - name: Date of Birth
       # value: 14th March 2000
-    - name: Languages
-      value: Indonesia, English
 
 - title: Education
   type: time_table
